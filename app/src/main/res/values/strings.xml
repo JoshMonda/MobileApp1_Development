@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentMarks</string>
+    <string name="position" />
+    <string name="AdmNo" />
+    <string name="Name" />
+    <string name="Maths" />
+    <string name="Eng" />
+    <string name="Kisw" />
+</resources>

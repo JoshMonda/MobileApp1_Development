@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/lvTemplate"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#fff"
+	android:orientation="horizontal">
+
+	<TextView
+		android:id="@+id/txtPosition"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Position"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtAdmno"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="AdmNo"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtName"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Name"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtMaths"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Maths"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtEng"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="English"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtKisw"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Kiswahili"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtChem"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Chemistry"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtHist"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="History"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtPys"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="physics"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtBio"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Biology"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtAgri"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Agriculture"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtCRE"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="CRE"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtGeo"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Geography"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtHs"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Home Scince"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtComp"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Computer"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+	<TextView
+		android:id="@+id/txtTotal"
+		android:layout_width="100dp"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:text="Total"
+		android:textColor="#000"
+		android:textSize="20sp" />
+
+</LinearLayout>
